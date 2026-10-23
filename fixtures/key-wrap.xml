@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.7" version="1" serialNumber="urn:uuid:c7c7b9ac-126d-4aa5-8b9e-096f24c869bc"><components><component type="cryptographic-asset" bom-ref="key-wrap"><name>BOM Fidelity control key-wrap</name><cryptoProperties><assetType>algorithm</assetType><algorithmProperties><primitive>key-wrap</primitive></algorithmProperties></cryptoProperties></component></components></bom>

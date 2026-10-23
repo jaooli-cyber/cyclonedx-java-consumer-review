@@ -1,0 +1,207 @@
+{
+  "actualCoreArtifact": "core-13.2.0.jar",
+  "actualSchemaValidatorArtifact": "json-schema-validator-2.0.4.jar",
+  "componentsLosingCryptoProperties": 4,
+  "consumerVariant": "PINNED_BASE",
+  "convertedComponents": 4,
+  "databasePersistenceTested": false,
+  "httpImportTested": false,
+  "inputFiles": 24,
+  "internalModelHasCryptoPropertiesAccessor": false,
+  "libraryVersion": "13.2.0",
+  "parsedAndConvertedFiles": 4,
+  "realConsumerConverterExecuted": true,
+  "records": [
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "key-wrap.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "key-wrap.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "dtls.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "dtls.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "quic.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "quic.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "eap-aka.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "eap-aka.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "eap-aka-prime.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "eap-aka-prime.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "prins.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "prins.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "5g-aka.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "5g-aka.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "existing-block-cipher",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "existing-block-cipher"
+        }
+      ],
+      "file": "existing-block-cipher.json",
+      "libraryVersion": "13.2.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "existing-block-cipher",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "existing-block-cipher"
+        }
+      ],
+      "file": "existing-block-cipher.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "existing-tls",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "existing-tls"
+        }
+      ],
+      "file": "existing-tls.json",
+      "libraryVersion": "13.2.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "existing-tls",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "existing-tls"
+        }
+      ],
+      "file": "existing-tls.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-primitive.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-primitive.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-protocol.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-protocol.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "upstream-combined.json",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "upstream-combined.xml",
+      "libraryVersion": "13.2.0",
+      "parsed": false
+    }
+  ],
+  "status": "COMPLETED_WITH_MEASURED_RETENTION",
+  "uiTested": false,
+  "unexpectedFailures": 0
+}

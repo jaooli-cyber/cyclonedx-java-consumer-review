@@ -1,0 +1,19 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "bom-ref": "existing-block-cipher",
+      "cryptoProperties": {
+        "algorithmProperties": {
+          "primitive": "block-cipher"
+        },
+        "assetType": "algorithm"
+      },
+      "name": "BOM Fidelity control existing-block-cipher",
+      "type": "cryptographic-asset"
+    }
+  ],
+  "serialNumber": "urn:uuid:c7c7b9ac-126d-4aa5-8b9e-096f24c869bc",
+  "specVersion": "1.7",
+  "version": 1
+}

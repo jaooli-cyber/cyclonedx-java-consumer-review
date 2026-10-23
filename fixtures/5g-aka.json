@@ -1,0 +1,19 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "bom-ref": "5g-aka",
+      "cryptoProperties": {
+        "assetType": "protocol",
+        "protocolProperties": {
+          "type": "5g-aka"
+        }
+      },
+      "name": "BOM Fidelity control 5g-aka",
+      "type": "cryptographic-asset"
+    }
+  ],
+  "serialNumber": "urn:uuid:c7c7b9ac-126d-4aa5-8b9e-096f24c869bc",
+  "specVersion": "1.7",
+  "version": 1
+}

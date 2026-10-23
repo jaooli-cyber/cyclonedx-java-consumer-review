@@ -1,0 +1,503 @@
+{
+  "actualCoreArtifact": "core-13.3.0.jar",
+  "actualSchemaValidatorArtifact": "json-schema-validator-2.0.8.jar",
+  "componentsLosingCryptoProperties": 32,
+  "consumerVariant": "PR_WITH_LOCAL_VALIDATOR_2_0_8_OVERRIDE",
+  "convertedComponents": 32,
+  "databasePersistenceTested": false,
+  "httpImportTested": false,
+  "inputFiles": 24,
+  "internalModelHasCryptoPropertiesAccessor": false,
+  "libraryVersion": "13.3.0",
+  "parsedAndConvertedFiles": 20,
+  "realConsumerConverterExecuted": true,
+  "records": [
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "key-wrap",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "key-wrap"
+        }
+      ],
+      "file": "key-wrap.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "key-wrap",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "key-wrap"
+        }
+      ],
+      "file": "key-wrap.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "dtls",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "dtls"
+        }
+      ],
+      "file": "dtls.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "dtls",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "dtls"
+        }
+      ],
+      "file": "dtls.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "quic",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "quic"
+        }
+      ],
+      "file": "quic.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "quic",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "quic"
+        }
+      ],
+      "file": "quic.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "eap-aka",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "eap-aka"
+        }
+      ],
+      "file": "eap-aka.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "eap-aka",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "eap-aka"
+        }
+      ],
+      "file": "eap-aka.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "eap-aka-prime",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "eap-aka-prime"
+        }
+      ],
+      "file": "eap-aka-prime.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "eap-aka-prime",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "eap-aka-prime"
+        }
+      ],
+      "file": "eap-aka-prime.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "prins",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "prins"
+        }
+      ],
+      "file": "prins.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "prins",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "prins"
+        }
+      ],
+      "file": "prins.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "5g-aka",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "5g-aka"
+        }
+      ],
+      "file": "5g-aka.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "5g-aka",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "5g-aka"
+        }
+      ],
+      "file": "5g-aka.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "existing-block-cipher",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "existing-block-cipher"
+        }
+      ],
+      "file": "existing-block-cipher.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "existing-block-cipher",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "existing-block-cipher"
+        }
+      ],
+      "file": "existing-block-cipher.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "existing-tls",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "existing-tls"
+        }
+      ],
+      "file": "existing-tls.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "existing-tls",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "existing-tls"
+        }
+      ],
+      "file": "existing-tls.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-primitive.json",
+      "libraryVersion": "13.3.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-primitive.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-protocol.json",
+      "libraryVersion": "13.3.0",
+      "parsed": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-protocol.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": false
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "aes-128-kw",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "aes-128-kw"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-dtls",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-dtls"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-quic",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-quic"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-eap-aka",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-eap-aka"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-eap-aka-prime",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-eap-aka-prime"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-prins",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-prins"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-5g-aka",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-5g-aka"
+        }
+      ],
+      "file": "upstream-combined.json",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    },
+    {
+      "convertedComponents": [
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "aes-128-kw",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "aes-128-kw"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-dtls",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-dtls"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-quic",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-quic"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-eap-aka",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-eap-aka"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-eap-aka-prime",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-eap-aka-prime"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-prins",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-prins"
+        },
+        {
+          "cryptoPropertiesPresentAfter": false,
+          "cryptoPropertiesPresentBefore": true,
+          "inputType": "CRYPTOGRAPHIC_ASSET",
+          "internalBomRef": "protocol-5g-aka",
+          "internalClassifier": "CRYPTOGRAPHIC_ASSET",
+          "namePreserved": true,
+          "outputType": "CRYPTOGRAPHIC_ASSET",
+          "sourceBomRef": "protocol-5g-aka"
+        }
+      ],
+      "file": "upstream-combined.xml",
+      "libraryVersion": "13.3.0",
+      "parsed": true
+    }
+  ],
+  "status": "COMPLETED_WITH_MEASURED_RETENTION",
+  "uiTested": false,
+  "unexpectedFailures": 0
+}

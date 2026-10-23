@@ -1,0 +1,365 @@
+{
+  "expectationMismatches": 0,
+  "inputFiles": 24,
+  "libraryVersion": "13.2.0",
+  "records": [
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "key-wrap.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "key-wrap.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "dtls.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "dtls.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "quic.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "quic.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "eap-aka.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "eap-aka.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "eap-aka-prime.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "eap-aka-prime.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "prins.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "prins.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "5g-aka.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "5g-aka.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "file": "existing-block-cipher.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": true,
+      "parseMatchesExpectation": true,
+      "parsed": true,
+      "parsedProjection": [
+        {
+          "bom-ref": "existing-block-cipher",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "primitive": "block-cipher"
+            },
+            "assetType": "algorithm"
+          },
+          "name": "BOM Fidelity control existing-block-cipher",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "parsedProjectionPreserved": true,
+      "roundTrips": {
+        "json": {
+          "projectionPreserved": true,
+          "schemaValid": true
+        },
+        "xml": {
+          "projectionPreserved": true,
+          "schemaValid": true
+        }
+      },
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "file": "existing-block-cipher.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": true,
+      "parseMatchesExpectation": true,
+      "parsed": true,
+      "parsedProjection": [
+        {
+          "bom-ref": "existing-block-cipher",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "primitive": "block-cipher"
+            },
+            "assetType": "algorithm"
+          },
+          "name": "BOM Fidelity control existing-block-cipher",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "parsedProjectionPreserved": true,
+      "roundTrips": {
+        "json": {
+          "projectionPreserved": true,
+          "schemaValid": true
+        },
+        "xml": {
+          "projectionPreserved": true,
+          "schemaValid": true
+        }
+      },
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "file": "existing-tls.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": true,
+      "parseMatchesExpectation": true,
+      "parsed": true,
+      "parsedProjection": [
+        {
+          "bom-ref": "existing-tls",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "tls"
+            }
+          },
+          "name": "BOM Fidelity control existing-tls",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "parsedProjectionPreserved": true,
+      "roundTrips": {
+        "json": {
+          "projectionPreserved": true,
+          "schemaValid": true
+        },
+        "xml": {
+          "projectionPreserved": true,
+          "schemaValid": true
+        }
+      },
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "file": "existing-tls.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": true,
+      "parseMatchesExpectation": true,
+      "parsed": true,
+      "parsedProjection": [
+        {
+          "bom-ref": "existing-tls",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "tls"
+            }
+          },
+          "name": "BOM Fidelity control existing-tls",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "parsedProjectionPreserved": true,
+      "roundTrips": {
+        "json": {
+          "projectionPreserved": true,
+          "schemaValid": true
+        },
+        "xml": {
+          "projectionPreserved": true,
+          "schemaValid": true
+        }
+      },
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-primitive.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 1,
+      "schemaMatchesExpectation": true,
+      "schemaValid": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-primitive.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 2,
+      "schemaMatchesExpectation": true,
+      "schemaValid": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-protocol.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 1,
+      "schemaMatchesExpectation": true,
+      "schemaValid": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "invalid-protocol.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 2,
+      "schemaMatchesExpectation": true,
+      "schemaValid": false
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "upstream-combined.json",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    },
+    {
+      "errorClass": "org.cyclonedx.exception.ParseException",
+      "file": "upstream-combined.xml",
+      "libraryVersion": "13.2.0",
+      "parseExpected": false,
+      "parseMatchesExpectation": true,
+      "parsed": false,
+      "schemaDiagnosticCount": 0,
+      "schemaMatchesExpectation": true,
+      "schemaValid": true
+    }
+  ],
+  "roundTrips": 8,
+  "status": "PASS"
+}

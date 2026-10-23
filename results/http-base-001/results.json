@@ -1,0 +1,415 @@
+{
+  "consumerVariant": "PINNED_BASE",
+  "databasePersistenceTested": true,
+  "expectationMismatches": 0,
+  "externalNetworkBlocked": true,
+  "httpImportTested": true,
+  "inputFiles": 24,
+  "jsonAndXml17ExportTested": true,
+  "libraryVersion": "13.2.0",
+  "records": [
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "key-wrap.json",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "key-wrap.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "dtls.json",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "dtls.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "quic.json",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "quic.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "eap-aka.json",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "eap-aka.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "eap-aka-prime.json",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "eap-aka-prime.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "prins.json",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "prins.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "5g-aka.json",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "5g-aka.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": true,
+      "exports": {
+        "json": {
+          "components": 1,
+          "componentsWithCryptoProperties": 0,
+          "specVersion": "1.7"
+        },
+        "xml": {
+          "components": 1,
+          "componentsWithCryptoProperties": 0,
+          "specVersion": "1.7"
+        }
+      },
+      "file": "existing-block-cipher.json",
+      "lastBomImportPresent": true,
+      "schemaValid": true,
+      "storedComponents": 1,
+      "storedComponentsWithCryptoProperties": 0,
+      "storedNamesAndTypesPreserved": true,
+      "successfulImport": true,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "COMPLETED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": true,
+      "exports": {
+        "json": {
+          "components": 1,
+          "componentsWithCryptoProperties": 0,
+          "specVersion": "1.7"
+        },
+        "xml": {
+          "components": 1,
+          "componentsWithCryptoProperties": 0,
+          "specVersion": "1.7"
+        }
+      },
+      "file": "existing-block-cipher.xml",
+      "lastBomImportPresent": true,
+      "schemaValid": true,
+      "storedComponents": 1,
+      "storedComponentsWithCryptoProperties": 0,
+      "storedNamesAndTypesPreserved": true,
+      "successfulImport": true,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "COMPLETED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": true,
+      "exports": {
+        "json": {
+          "components": 1,
+          "componentsWithCryptoProperties": 0,
+          "specVersion": "1.7"
+        },
+        "xml": {
+          "components": 1,
+          "componentsWithCryptoProperties": 0,
+          "specVersion": "1.7"
+        }
+      },
+      "file": "existing-tls.json",
+      "lastBomImportPresent": true,
+      "schemaValid": true,
+      "storedComponents": 1,
+      "storedComponentsWithCryptoProperties": 0,
+      "storedNamesAndTypesPreserved": true,
+      "successfulImport": true,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "COMPLETED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": true,
+      "exports": {
+        "json": {
+          "components": 1,
+          "componentsWithCryptoProperties": 0,
+          "specVersion": "1.7"
+        },
+        "xml": {
+          "components": 1,
+          "componentsWithCryptoProperties": 0,
+          "specVersion": "1.7"
+        }
+      },
+      "file": "existing-tls.xml",
+      "lastBomImportPresent": true,
+      "schemaValid": true,
+      "storedComponents": 1,
+      "storedComponentsWithCryptoProperties": 0,
+      "storedNamesAndTypesPreserved": true,
+      "successfulImport": true,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "COMPLETED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "invalid-primitive.json",
+      "lastBomImportPresent": false,
+      "schemaValid": false,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": null,
+      "uploadHttpStatus": 400
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "invalid-primitive.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": false,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": null,
+      "uploadHttpStatus": 400
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "invalid-protocol.json",
+      "lastBomImportPresent": false,
+      "schemaValid": false,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": null,
+      "uploadHttpStatus": 400
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "invalid-protocol.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": false,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": null,
+      "uploadHttpStatus": 400
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "upstream-combined.json",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    },
+    {
+      "expectationMismatch": false,
+      "expectedImportSuccess": false,
+      "file": "upstream-combined.xml",
+      "lastBomImportPresent": false,
+      "schemaValid": true,
+      "storedComponents": 0,
+      "storedComponentsWithCryptoProperties": 0,
+      "successfulImport": false,
+      "terminalWorkflow": {
+        "processing": false,
+        "status": "FAILED"
+      },
+      "uploadHttpStatus": 200
+    }
+  ],
+  "status": "PASS",
+  "successfulImports": 4,
+  "uiTested": false
+}

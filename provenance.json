@@ -1,0 +1,52 @@
+{
+  "coreMerge": "2becc7150d87b313951e4c4b7676d1da41fb8faf",
+  "dependencyTrackBase": "b9dcc8959e5bacb84259e1b4f6a5623131951f27",
+  "dependencyTrackHead": "a5341448910c2dcf3d461720fa3292697301733a",
+  "files": {
+    "core-13.2.0.jar": {
+      "bytes": 2980702,
+      "sha256": "2ffa412d7adc10e810f620ce72d1fcaa11b30bfdce690cd803de998aee5f0bb9",
+      "url": "https://repo.maven.apache.org/maven2/org/cyclonedx/cyclonedx-core-java/13.2.0/cyclonedx-core-java-13.2.0.jar"
+    },
+    "core-13.2.0.pom": {
+      "bytes": 15240,
+      "sha256": "e2b5090615320979cb1065960d51b5a881c641cd63f77a879009e1d1c530633d",
+      "url": "https://repo.maven.apache.org/maven2/org/cyclonedx/cyclonedx-core-java/13.2.0/cyclonedx-core-java-13.2.0.pom"
+    },
+    "core-13.3.0.jar": {
+      "bytes": 2992960,
+      "sha256": "6e0b9942acec4479d26a0f1694506b534d3657c25fa98dca60af86a5f5925c7e",
+      "url": "https://repo.maven.apache.org/maven2/org/cyclonedx/cyclonedx-core-java/13.3.0/cyclonedx-core-java-13.3.0.jar"
+    },
+    "core-13.3.0.pom": {
+      "bytes": 15240,
+      "sha256": "e5144fcbeb97c5c511c3c522077588e2ea467d2aced4497ede54380b57b5f4e7",
+      "url": "https://repo.maven.apache.org/maven2/org/cyclonedx/cyclonedx-core-java/13.3.0/cyclonedx-core-java-13.3.0.pom"
+    },
+    "core-source.tar.gz": {
+      "bytes": 2977852,
+      "sha256": "b6db6a5a3e227b01575e7c2ddd8c00dfaeea614ab0cb757240d0334bf39989c7",
+      "url": "https://codeload.github.com/CycloneDX/cyclonedx-core-java/tar.gz/2becc7150d87b313951e4c4b7676d1da41fb8faf"
+    },
+    "dtrack-base-pom.xml": {
+      "bytes": 46632,
+      "sha256": "3f384e34c73fd47ef3feb8aa70e6611a64a02f878d85b04c34300e40e69e4bfc",
+      "url": "https://raw.githubusercontent.com/DependencyTrack/dependency-track/b9dcc8959e5bacb84259e1b4f6a5623131951f27/pom.xml"
+    },
+    "dtrack-source.tar.gz": {
+      "bytes": 8402545,
+      "sha256": "2465bc874424e3f57c86e1212cd13c4e84df223092e33c88a7a83f27292df1a1",
+      "url": "https://codeload.github.com/DependencyTrack/dependency-track/tar.gz/a5341448910c2dcf3d461720fa3292697301733a"
+    },
+    "upstream-cryptography-enums.json": {
+      "bytes": 2240,
+      "sha256": "a886bff4e7969368ac088fcfc7c291f46a03f4ec44a91abdb1baf48cb87e341b",
+      "url": "https://raw.githubusercontent.com/CycloneDX/cyclonedx-core-java/2becc7150d87b313951e4c4b7676d1da41fb8faf/src/test/resources/1.7/valid-cryptography-enums-1.7.json"
+    },
+    "upstream-cryptography-enums.xml": {
+      "bytes": 3158,
+      "sha256": "2c324fe5f0fb3bac22ff76c81c38f14d0bdef0ff8c23a21bc8d166013b97dec4",
+      "url": "https://raw.githubusercontent.com/CycloneDX/cyclonedx-core-java/2becc7150d87b313951e4c4b7676d1da41fb8faf/src/test/resources/1.7/valid-cryptography-enums-1.7.xml"
+    }
+  }
+}

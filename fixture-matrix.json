@@ -1,0 +1,657 @@
+{
+  "cases": [
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "key-wrap",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "primitive": "key-wrap"
+            },
+            "assetType": "algorithm"
+          },
+          "name": "BOM Fidelity control key-wrap",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "key-wrap.json",
+      "kind": "primitive",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "key-wrap"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "key-wrap",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "primitive": "key-wrap"
+            },
+            "assetType": "algorithm"
+          },
+          "name": "BOM Fidelity control key-wrap",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "key-wrap.xml",
+      "kind": "primitive",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "key-wrap"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "dtls",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "dtls"
+            }
+          },
+          "name": "BOM Fidelity control dtls",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "dtls.json",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "dtls"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "dtls",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "dtls"
+            }
+          },
+          "name": "BOM Fidelity control dtls",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "dtls.xml",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "dtls"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "quic",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "quic"
+            }
+          },
+          "name": "BOM Fidelity control quic",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "quic.json",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "quic"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "quic",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "quic"
+            }
+          },
+          "name": "BOM Fidelity control quic",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "quic.xml",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "quic"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "eap-aka",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "eap-aka"
+            }
+          },
+          "name": "BOM Fidelity control eap-aka",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "eap-aka.json",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "eap-aka"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "eap-aka",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "eap-aka"
+            }
+          },
+          "name": "BOM Fidelity control eap-aka",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "eap-aka.xml",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "eap-aka"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "eap-aka-prime",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "eap-aka-prime"
+            }
+          },
+          "name": "BOM Fidelity control eap-aka-prime",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "eap-aka-prime.json",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "eap-aka-prime"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "eap-aka-prime",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "eap-aka-prime"
+            }
+          },
+          "name": "BOM Fidelity control eap-aka-prime",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "eap-aka-prime.xml",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "eap-aka-prime"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "prins",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "prins"
+            }
+          },
+          "name": "BOM Fidelity control prins",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "prins.json",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "prins"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "prins",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "prins"
+            }
+          },
+          "name": "BOM Fidelity control prins",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "prins.xml",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "prins"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "5g-aka",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "5g-aka"
+            }
+          },
+          "name": "BOM Fidelity control 5g-aka",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "5g-aka.json",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "5g-aka"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "5g-aka",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "5g-aka"
+            }
+          },
+          "name": "BOM Fidelity control 5g-aka",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "5g-aka.xml",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true,
+      "value": "5g-aka"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "existing-block-cipher",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "primitive": "block-cipher"
+            },
+            "assetType": "algorithm"
+          },
+          "name": "BOM Fidelity control existing-block-cipher",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "existing-block-cipher.json",
+      "kind": "primitive",
+      "newParseExpected": true,
+      "oldParseExpected": true,
+      "schemaValid": true,
+      "value": "block-cipher"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "existing-block-cipher",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "primitive": "block-cipher"
+            },
+            "assetType": "algorithm"
+          },
+          "name": "BOM Fidelity control existing-block-cipher",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "existing-block-cipher.xml",
+      "kind": "primitive",
+      "newParseExpected": true,
+      "oldParseExpected": true,
+      "schemaValid": true,
+      "value": "block-cipher"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "existing-tls",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "tls"
+            }
+          },
+          "name": "BOM Fidelity control existing-tls",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "existing-tls.json",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": true,
+      "schemaValid": true,
+      "value": "tls"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "existing-tls",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "tls"
+            }
+          },
+          "name": "BOM Fidelity control existing-tls",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "existing-tls.xml",
+      "kind": "protocol",
+      "newParseExpected": true,
+      "oldParseExpected": true,
+      "schemaValid": true,
+      "value": "tls"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "invalid-primitive",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "primitive": "not-a-primitive"
+            },
+            "assetType": "algorithm"
+          },
+          "name": "BOM Fidelity control invalid-primitive",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "invalid-primitive.json",
+      "kind": "primitive",
+      "newParseExpected": false,
+      "oldParseExpected": false,
+      "schemaValid": false,
+      "value": "not-a-primitive"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "invalid-primitive",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "primitive": "not-a-primitive"
+            },
+            "assetType": "algorithm"
+          },
+          "name": "BOM Fidelity control invalid-primitive",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "invalid-primitive.xml",
+      "kind": "primitive",
+      "newParseExpected": false,
+      "oldParseExpected": false,
+      "schemaValid": false,
+      "value": "not-a-primitive"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "invalid-protocol",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "not-a-protocol"
+            }
+          },
+          "name": "BOM Fidelity control invalid-protocol",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "invalid-protocol.json",
+      "kind": "protocol",
+      "newParseExpected": false,
+      "oldParseExpected": false,
+      "schemaValid": false,
+      "value": "not-a-protocol"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "invalid-protocol",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "not-a-protocol"
+            }
+          },
+          "name": "BOM Fidelity control invalid-protocol",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "invalid-protocol.xml",
+      "kind": "protocol",
+      "newParseExpected": false,
+      "oldParseExpected": false,
+      "schemaValid": false,
+      "value": "not-a-protocol"
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "aes-128-kw",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "algorithmFamily": "AES",
+              "cryptoFunctions": [
+                "encrypt",
+                "decrypt"
+              ],
+              "parameterSetIdentifier": "128",
+              "primitive": "key-wrap"
+            },
+            "assetType": "algorithm",
+            "oid": "2.16.840.1.101.3.4.1.5"
+          },
+          "name": "AES-128-KW",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-dtls",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "dtls",
+              "version": "1.3"
+            }
+          },
+          "name": "DTLS",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-quic",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "quic",
+              "version": "1"
+            }
+          },
+          "name": "QUIC",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-eap-aka",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "eap-aka"
+            }
+          },
+          "name": "EAP-AKA",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-eap-aka-prime",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "eap-aka-prime"
+            }
+          },
+          "name": "EAP-AKA-PRIME",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-prins",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "prins"
+            }
+          },
+          "name": "PRINS",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-5g-aka",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "5g-aka"
+            }
+          },
+          "name": "5G-AKA",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "upstream-combined.json",
+      "kind": "combined",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true
+    },
+    {
+      "expectedProjection": [
+        {
+          "bom-ref": "aes-128-kw",
+          "cryptoProperties": {
+            "algorithmProperties": {
+              "algorithmFamily": "AES",
+              "cryptoFunctions": [
+                "encrypt",
+                "decrypt"
+              ],
+              "parameterSetIdentifier": "128",
+              "primitive": "key-wrap"
+            },
+            "assetType": "algorithm",
+            "oid": "2.16.840.1.101.3.4.1.5"
+          },
+          "name": "AES-128-KW",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-dtls",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "dtls",
+              "version": "1.3"
+            }
+          },
+          "name": "DTLS",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-quic",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "quic",
+              "version": "1"
+            }
+          },
+          "name": "QUIC",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-eap-aka",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "eap-aka"
+            }
+          },
+          "name": "EAP-AKA",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-eap-aka-prime",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "eap-aka-prime"
+            }
+          },
+          "name": "EAP-AKA-PRIME",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-prins",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "prins"
+            }
+          },
+          "name": "PRINS",
+          "type": "cryptographic-asset"
+        },
+        {
+          "bom-ref": "protocol-5g-aka",
+          "cryptoProperties": {
+            "assetType": "protocol",
+            "protocolProperties": {
+              "type": "5g-aka"
+            }
+          },
+          "name": "5G-AKA",
+          "type": "cryptographic-asset"
+        }
+      ],
+      "file": "upstream-combined.xml",
+      "kind": "combined",
+      "newParseExpected": true,
+      "oldParseExpected": false,
+      "schemaValid": true
+    }
+  ],
+  "status": "EXPECTATIONS_FIXED_BEFORE_EXECUTION"
+}
